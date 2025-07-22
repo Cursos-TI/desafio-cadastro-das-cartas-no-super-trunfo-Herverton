@@ -2,7 +2,7 @@
 
 int main(){
 
-    printf("Desafio Xadrez! \n");
+    printf("Desafio Super Trunfo! \n");
     printf("Carta 1: \n");
     char estado[10];
     char codigo[5];
@@ -17,7 +17,7 @@ int main(){
     
     printf("Codigo: \n");
     scanf("%s", &codigo);
-    
+
     printf("Nome da Cidade: \n");
     scanf("%s", &cidade);
 
