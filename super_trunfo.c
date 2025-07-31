@@ -2,6 +2,8 @@
 
 int main(){
 
+    printf("Desafio Super Trunfo! \n \n ");
+
     char estado1[10];
     char codigo1[10];
     char cidade1[50];
@@ -18,7 +20,7 @@ int main(){
     float area2;
     float pib2;
 
-    printf("Insira os dados da carta 1: \n");
+    printf("Insira os dados da carta 1: \n \n ");
 
     printf("Digite o Estado: \n");
     scanf("%s", &estado1);
@@ -38,10 +40,10 @@ int main(){
     printf("Pib: \n");
     scanf("%f", &pib1);
 
-    printf("Numero de pontos turisticos: \n");
+    printf("Numero de Pontos Turisticos: \n");
     scanf("%d", &Pontosturisticos1);
 
-    printf("Insira os dados da carta 2: \n");
+    printf("Insira os dados da carta 2: \n \n");
 
     printf("Digite o Estado: \n");
     scanf("%s", &estado2);
@@ -61,7 +63,7 @@ int main(){
     printf("Pib: \n");
     scanf("%f", &pib2);
 
-    printf("Numero de pontos turisticos: \n");
+    printf("Numero de Pontos Turisticos: \n");
     scanf("%d", &Pontosturisticos2);
 
     printf("Carta 1: \n");
