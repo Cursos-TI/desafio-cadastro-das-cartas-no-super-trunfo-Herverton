@@ -23,7 +23,7 @@ int main(){
     printf("Insira os dados da carta 1: \n \n ");
 
     printf("Digite o Estado: \n");
-    scanf("%s", &estado1);
+    scanf("%s", estado1);
     
     printf("Codigo: \n");
     scanf("%s", &codigo1);
@@ -46,7 +46,7 @@ int main(){
     printf("Insira os dados da carta 2: \n \n");
 
     printf("Digite o Estado: \n");
-    scanf("%s", &estado2);
+    scanf("%s", estado2);
     
     printf("Codigo: \n");
     scanf("%s", &codigo2);
