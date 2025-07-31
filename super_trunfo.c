@@ -66,7 +66,7 @@ int main(){
     printf("Numero de Pontos Turisticos: \n");
     scanf("%d", &Pontosturisticos2);
 
-    printf("Carta 1: \n");
+    printf("Carta 1: \n \n");
     printf("Estado: %s \n", estado1);
     printf("Codigo da carta: %s \n", codigo1);
     printf("Cidade: %s \n", cidade1);
@@ -75,7 +75,7 @@ int main(){
     printf("Pib: %f \n", pib1);
     printf("Pontos Turisticos: %d \n", Pontosturisticos1);
 
-    printf("Carta 2: \n");
+    printf("Carta 2: \n \n");
     printf("Estado: %s \n", estado2);
     printf("Codigo da carta: %s \n", codigo2);
     printf("Cidade: %s \n", cidade2);
